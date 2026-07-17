@@ -1,0 +1,7 @@
+streamlit
+google-genai
+Pillow
+python-dotenv
+numpy
+faiss-cpu
+requests
