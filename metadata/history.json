@@ -1,0 +1,14 @@
+[
+    {
+        "original": "icons-icons-conclude-conclusion-presentation-bow-bowing-respect-audience-finished-performance-stick-figure-pictogram-512.png",
+        "edited_file": "icons-icons-conclude-conclusion-presentation-bow-bowing-respect-audience-finished-performance-stick-figure-pictogram-512_v1.png",
+        "prompt": "Remove Background",
+        "timestamp": "2026-07-17 23:45:41"
+    },
+    {
+        "original": "IMG_4074.jpg",
+        "edited_file": "IMG_4074_v1.jpg",
+        "prompt": "\nYou are an advanced AI image editing model.\n\nUser wants this modification:\n\nRemove Background\n\nInstructions:\n- Follow the user's editing request.\n- Preserve important details.\n- Produce a realistic professional result.\n",
+        "timestamp": "2026-07-18 00:19:26"
+    }
+]
